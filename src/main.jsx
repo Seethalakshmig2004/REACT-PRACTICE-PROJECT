@@ -7,7 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import App from "./App";
 // import { Toggle } from "./pages/toggle";
 // import { Greet,DateTime } from "../pages/oct27task";
-import { EmployeeDetails } from "../pages/b_api";
+// import { EmployeeDetails } from "../pages/b_api";
+import { Wifi } from "../pages/wifion/off";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -20,7 +21,8 @@ createRoot(document.getElementById("root")).render(
       <Toggle /> */}
       {/* <Greet/>
       <DateTime/> */}
-      <EmployeeDetails/>
+      {/* <EmployeeDetails/> */}
+      <Wifi/>
 
     </>
   </StrictMode>,
