@@ -19,3 +19,13 @@ export function Wifi() {
     </>
   );
 }
+
+
+
+
+
+
+
+
+
+
