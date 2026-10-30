@@ -76,4 +76,13 @@ export function EmployeeDetails() {
       </form>
     </div>
   );
-}
+
+  
+
+
+
+
+
+
+
+  
