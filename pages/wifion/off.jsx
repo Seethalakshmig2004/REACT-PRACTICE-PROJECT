@@ -26,10 +26,3 @@ export function Wifi() {
 
 
 
-
-
-
-
-
-
-
